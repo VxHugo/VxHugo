@@ -72,5 +72,3 @@ Tenho interesse em ambientes que valorizem aprendizado contínuo, resolução de
     <img src="https://img.shields.io/badge/LinkedIn-Hugo%20Alves-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-- ⚡ Fun fact: ...
--->
