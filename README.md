@@ -40,7 +40,7 @@ Tenho experiência e estudos em:
 ## Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VxHugo&show_icons=true&theme=dark" />
+  <img src="https://stats.hackclub.dev/api?username=VxHugo" />
 </p>
 
 </td>
