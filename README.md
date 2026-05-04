@@ -40,7 +40,7 @@ Tenho experiência e estudos em:
 ## Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VxHugo&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VxHugo&show_icons=true&theme=dark" />
 </p>
 
 </td>
