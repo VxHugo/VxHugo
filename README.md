@@ -37,17 +37,6 @@ Tenho experiência e estudos em:
 
 <br>
 
-## Estatísticas
-
-<p align="center">
-  <img src="https://stats.hackclub.dev/api?username=VxHugo" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
 
 ## Projeto em destaque
 
