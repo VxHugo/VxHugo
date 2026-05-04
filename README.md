@@ -53,6 +53,14 @@ Repositório: [CryptoWatch Pro](https://github.com/VxHugo/crypto-watch-pro)
 
 <br>
 
+## Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VxHugo&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<br>
+
 ## Objetivo
 
 Busco oportunidades nas áreas de tecnologia, desenvolvimento e dados, onde eu possa aplicar conhecimento técnico na criação de soluções eficientes, acessíveis e orientadas a resultados.
